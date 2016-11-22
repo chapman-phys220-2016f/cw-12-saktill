@@ -1,8 +1,8 @@
 # PHYS220 CW 12 
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _\<Will and Sakthi\>_
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-12-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-12-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-12-saktill.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-12-saktill)
 
 **Due date:** 2016/11/29
 
@@ -32,7 +32,7 @@ Your homework this week will be to finish this classwork assignment, and then us
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+It would have been good to finish the HW implementation of RK4 first, as sombrero.py ended up being sort of a beta version of that hw. However, what I've got seems to be working, albeit very slowly. Also, I'm immensely skeptical about the last Poincare plot, which seems too simple. In the bigger picture, however, the main problem we came up with is that we don't know how to test a function that we don't have an analytic solution to. We could test our program for some basic functions, but couldn't test to make sure the approximation of the actual function was correct, which would seem to be a fundamental issue in numerical approximation. That is, we couldn't find a generalized way to do it. We could have just worked through a few steps of the approximation by hand and checked them. 
 
 ## Honor Pledge
 
@@ -43,4 +43,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Sakthi and Will
